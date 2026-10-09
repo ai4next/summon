@@ -295,5 +295,5 @@ status: active
 
 ---
 
-> 本Skill由 [拘神 · summon-skill](https://github.com/ai4next/summon-skill) 铸造（合成型示例）
+> 本Skill由 [拘神 · summon](https://github.com/ai4next/summon) 铸造（合成型示例）
 > ground truth：`references/AXIOMS.md` @ sha256 5191f882…

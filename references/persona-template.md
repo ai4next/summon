@@ -276,7 +276,7 @@ status: draft                                # active | stale | draft | retired
 
 ---
 
-> 本Skill由 [拘神 · summon-skill](https://github.com/ai4next/summon-skill) 铸造
+> 本Skill由 [拘神 · summon](https://github.com/ai4next/summon) 铸造
 > ground truth：源材料 `MATERIAL.md`（实录型 / 原作型）或 `references/AXIOMS.md`（合成型）
 ```
 

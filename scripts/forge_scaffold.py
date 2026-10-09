@@ -414,7 +414,7 @@ ground truth：`{archive}`
 
 ---
 
-> 本Skill由 [拘神 · summon-skill](https://github.com/ai4next/summon-skill) 铸造
+> 本Skill由 [拘神 · summon](https://github.com/ai4next/summon) 铸造
 > ground truth：{slug}
 """.format(name=name, slug=slug, gt_line=gt_line, pct=pct, total=total,
            source_block=source_block, ptype=persona_type,

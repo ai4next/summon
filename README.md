@@ -53,7 +53,7 @@ P5.5 + P6）**≈ 6–7 个**。
 ## 目录结构
 
 ```
-summon-skill/
+summon/
 ├── SKILL.md                       # 路由器：六公理索引、一个人格目录的产物模型、P0–P9 流程与代价表
 ├── README.md                      # 本文件
 ├── LICENSE                        # MIT
@@ -118,7 +118,7 @@ python3 scripts/selfcheck.py
 ## 安装
 
 ```bash
-npx skills add ai4next/summon-skill
+npx skills add ai4next/summon
 ```
 
 ## 使用

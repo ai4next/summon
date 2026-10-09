@@ -56,7 +56,7 @@ CFO   ❯ 「战略性亏损」这个词我听过很多次。它不是不能接�
 ## 怎么用
 
 ```bash
-npx skills add ai4next/summon-skill
+npx skills add ai4next/summon
 ```
 
 装好后直接说：
